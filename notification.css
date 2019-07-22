@@ -1,0 +1,23 @@
+.boxed {
+  border: 1px;
+  background-color: #c0aa68;
+  width: 396px;
+  height: 233px;
+  font-size: 20px;
+}
+
+input[type="button"] {
+  font-size: 30px;
+  background-color: white;
+  width: 185px;
+  height: 40px;
+  color: #c0aa68;
+}
+
+.topnav {
+  list-style: none;
+  margin: 0 2px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}

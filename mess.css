@@ -1,0 +1,12 @@
+h3 {
+  font-family: "Emilys Candy", cursive;
+  font-size: 50px;
+  color: #c0aa68;
+}
+
+input[type="text"] {
+  width: 800px;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 17px;
+}

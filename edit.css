@@ -1,0 +1,23 @@
+h2 {
+  color: #c0aa68;
+  font-family: "Emilys Candy", cursive;
+}
+
+input[type="text"] {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 17px;
+  width: 200px;
+  height: 30px;
+  border: none;
+  background: none;
+}
+
+::placeholder {
+  color: #c0aa68;
+}
+
+select {
+  width: 320px;
+  height: 30px;
+  color: #c0aa68;
+}

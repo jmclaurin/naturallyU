@@ -1,0 +1,24 @@
+textarea {
+  width: 500px;
+  height: 400px;
+  margin-left: 50px;
+}
+
+button {
+  background-color: #c0aa68;
+  color: white;
+  border-radius: 5px;
+  width: 95px;
+  height: 36px;
+  font-size: 20px;
+}
+
+input[type="button"] {
+  font-size: 20px;
+  color: #c0aa68;
+  width: 95px;
+  height: 36px;
+  padding: 0;
+  border: none;
+  background: none;
+}

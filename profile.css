@@ -1,0 +1,23 @@
+h3 {
+  color: #c0aa68;
+}
+
+.topnav {
+  list-style: none;
+  margin: 0 2px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  border-color: #c0aa68;
+  color: #c0aa68;
+  width: 380px;
+  height: 30px;
+  font-size: 20px;
+}
+
+text {
+  font-size: 40px;
+}

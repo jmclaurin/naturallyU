@@ -1,0 +1,28 @@
+h3 {
+  color: #c0aa68;
+  font-family: "Emilys Candy", cursive;
+}
+
+p {
+  font-size: 13px;
+}
+
+.borderexample {
+  width: 70px;
+}
+
+button {
+  height: 40px;
+}
+
+.action {
+  margin: 5px;
+}
+
+.topnav {
+  list-style: none;
+  margin: 0 2px;
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}

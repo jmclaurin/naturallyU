@@ -1,0 +1,30 @@
+h1 {
+  font-family: "Emilys Candy", cursive;
+  font-size: 40px;
+}
+
+button {
+  color: white;
+  background-color: #2b4c55;
+  border-radius: 15px;
+  width: 350px;
+  height: 50px;
+  font-size: 25px;
+  margin-bottom: 40px;
+  font-family: "Emilys Candy", cursive;
+}
+
+p {
+  font-family: "Emilys Candy", cursive;
+}
+
+input[type="text"] {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 17px;
+  width: 380px;
+  height: 30px;
+}
+
+::placeholder {
+  color: #c0aa68;
+}

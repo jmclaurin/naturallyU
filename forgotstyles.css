@@ -1,0 +1,42 @@
+h1 {
+  font-size: 60px;
+}
+
+.boxed {
+  border: 1px;
+  background-color: #c0aa68;
+  width: 311px;
+  height: 294px;
+  font-size: 20px;
+}
+
+button {
+  color: white;
+  background-color: #2b4c55;
+  border-radius: 15px;
+  width: 350px;
+  height: 50px;
+  font-size: 25px;
+  margin-bottom: 40px;
+  font-family: "Emilys Candy", cursive;
+}
+
+input[type="button"] {
+  font-size: 30px;
+  background-color: white;
+  width: 257px;
+  height: 100px;
+  color: #c0aa68;
+}
+
+textarea {
+  width: 287px;
+  height: 20px;
+  border-radius: 1px;
+  border-color: white;
+  background-color: #c0aa68;
+}
+
+::placeholder {
+  color: black;
+}

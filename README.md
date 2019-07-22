@@ -1,2 +1,0 @@
-# naturallyU
-Created with CodeSandbox
